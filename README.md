@@ -1,5 +1,9 @@
 # Scraping-Imdb-using-jquery
 
+## Output
+
+![image](https://github.com/iarunabho/Scraping-Imdb-using-jquery/blob/master/images/output.png)
+
 ## How to Run
 
 ```javascript
@@ -28,6 +32,7 @@ node index.js
 </h3>
 </div>
 ```
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
